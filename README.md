@@ -4,6 +4,12 @@ A sleek, browser-based presentation studio where every slide is a **qard**.
 
 [Open the Qards web app](https://averydimbulb79.github.io/Qards/)
 
+## Version 0.1.1 · Visual refresh
+
+- Rebuilt the workspace with a dedicated navigation rail and refined editor panels.
+- Added branded square-Q SVG wordmarks for light and dark modes, plus favicon.
+- Retained the existing editor features and local document storage.
+
 ## Version 0.1 · Foundation
 
 - Elegant presentation workspace with squarish Q wordmark
