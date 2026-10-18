@@ -4,6 +4,15 @@ A sleek, browser-based presentation studio where every slide is a **qard**.
 
 [Open the Qards web app](https://averydimbulb79.github.io/Qards/)
 
+## Version 0.2.1 · Advanced typography
+
+- Google Fonts selector (38 families) alongside system fonts, loaded on demand when online.
+- Per-text-box font family, size, colour, bold, italic and underline.
+- Adjustable leading (line height) and kerning/tracking (letter spacing).
+- Configurable text shadow with X/Y offsets, blur and colour.
+- Typography settings retained in browser autosave and editable JSON exports.
+- Offline use falls back to installed fonts when web fonts are unavailable.
+
 ## Version 0.2.0 · Editable text objects
 
 - Select, drag and resize text boxes on the qard.
