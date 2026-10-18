@@ -4,6 +4,12 @@ A sleek, browser-based presentation studio where every slide is a **qard**.
 
 [Open the Qards web app](https://averydimbulb79.github.io/Qards/)
 
+## Version 0.2.2 · Text editing fix
+
+- Clicking inside a text box now focuses editable text without triggering drag capture.
+- Move text boxes using the Move handle; resize with the bottom-right handle.
+- Existing typography inspector and autosave are retained.
+
 ## Branding update
 
 - Uses the uploaded approved Qards PNG wordmark in light and dark modes.
