@@ -4,6 +4,11 @@ A sleek, browser-based presentation studio where every slide is a **qard**.
 
 [Open the Qards web app](https://averydimbulb79.github.io/Qards/)
 
+## Version 0.2.4 · Alignment icons
+
+- Replaced Left, Centre and Right text alignment labels with compact SVG icons.
+- Added hover tooltips, accessible labels and selected-state highlighting.
+
 ## Version 0.2.3 · Inspector visibility fix
 
 - Restored the missing Text Inspector HTML container required by the typography editor.
