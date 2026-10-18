@@ -4,6 +4,14 @@ A sleek, browser-based presentation studio where every slide is a **qard**.
 
 [Open the Qards web app](https://averydimbulb79.github.io/Qards/)
 
+## Version 0.2.0 · Editable text objects
+
+- Select, drag and resize text boxes on the qard.
+- Add and delete independent text objects.
+- Inspector controls for position, dimensions, font family, font size, text colour, bold, italic and alignment.
+- Autosave and editable JSON export now retain object geometry and formatting.
+- Older v0.1 slides migrate to the object model when opened.
+
 ## Version 0.1.1 · Visual refresh
 
 - Rebuilt the workspace with a dedicated navigation rail and refined editor panels.
