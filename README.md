@@ -4,6 +4,11 @@ A sleek, browser-based presentation studio where every slide is a **qard**.
 
 [Open the Qards web app](https://averydimbulb79.github.io/Qards/)
 
+## Branding update
+
+- Uses the uploaded approved Qards PNG wordmark in light and dark modes.
+- Uses the uploaded PNG favicon rather than the earlier approximate SVG.
+
 ## Version 0.2.1 · Advanced typography
 
 - Google Fonts selector (38 families) alongside system fonts, loaded on demand when online.
