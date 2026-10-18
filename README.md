@@ -4,6 +4,13 @@ A sleek, browser-based presentation studio where every slide is a **qard**.
 
 [Open the Qards web app](https://averydimbulb79.github.io/Qards/)
 
+## Version 0.2.3 · Inspector visibility fix
+
+- Restored the missing Text Inspector HTML container required by the typography editor.
+- Added a visible **Text Inspector** toolbar toggle.
+- Responsive inspector stays available as a slide-out panel on narrow windows.
+- Fixes the JavaScript rendering error caused by the missing inspector container.
+
 ## Version 0.2.2 · Text editing fix
 
 - Clicking inside a text box now focuses editable text without triggering drag capture.
