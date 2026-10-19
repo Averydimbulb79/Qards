@@ -4,6 +4,13 @@ A sleek, browser-based presentation studio where every slide is a **qard**.
 
 [Open the Qards web app](https://averydimbulb79.github.io/Qards/)
 
+## Version 0.2.5 · Ribbon workspace
+
+- Replaced the crowded single-row toolbar with Home, Insert, Design and View tabs.
+- Grouped frequent actions as compact icon controls; import/export moved into a File dropdown.
+- Added a version badge beside the Qards logo and moved autosave status to the top-right header.
+- Reserved ribbon sections for future shapes, media, themes and presentation features.
+
 ## Version 0.2.4 · Alignment icons
 
 - Replaced Left, Centre and Right text alignment labels with compact SVG icons.
