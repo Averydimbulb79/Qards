@@ -4,6 +4,15 @@ A sleek, browser-based presentation studio where every slide is a **qard**.
 
 [Open the Qards web app](https://averydimbulb79.github.io/Qards/)
 
+## Version 0.2.6 · Presentation and fullscreen
+
+- Presenter now navigates all Qards with on-screen previous/next buttons.
+- Keyboard controls: arrows, Space, Page Up/Down and Escape.
+- Per-Qard entrance transitions: None, Fade, Slide Left, Slide Right and Zoom.
+- Configurable transition duration (100–3000 ms), retained in autosave and JSON export.
+- Separate fullscreen editor control in the header and View ribbon.
+- Reduced-motion preference disables transition animations.
+
 ## Version 0.2.5 · Ribbon workspace
 
 - Replaced the crowded single-row toolbar with Home, Insert, Design and View tabs.
