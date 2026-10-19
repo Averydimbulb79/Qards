@@ -4,6 +4,12 @@ A sleek, browser-based presentation studio where every slide is a **qard**.
 
 [Open the Qards web app](https://averydimbulb79.github.io/Qards/)
 
+## Version 0.2.10 · Object control styling
+
+- Restyled the text-box delete control as a compact neutral icon.
+- Aligned its border, colour and hover treatment with Qards' blue selection controls.
+- Preserved one-click deletion and keyboard accessibility.
+
 ## Version 0.2.9 · Inline delete and transition presets
 
 - Selected text boxes display an × button at their top-right corner for immediate deletion.
