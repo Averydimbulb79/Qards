@@ -4,6 +4,18 @@ A sleek, browser-based presentation studio where every slide is a **qard**.
 
 [Open the Qards web app](https://averydimbulb79.github.io/Qards/)
 
+## Version 0.3.0 · Ribbon redesign and first Qard template
+
+- Reorganised ribbon into File, Home, Insert, Design, Transitions and View, with compact consistent SVG icons and visible command labels.
+- Home: Undo/Redo, New Qard, Duplicate, Delete Qard and Inspector.
+- Insert: Add Text Box and the first reusable **Title Qard** template.
+- Design: Title Qard template and background inspector shortcut.
+- Transitions: effect, duration and Apply to All, with the inspector values kept in sync.
+- View: Fullscreen workspace, Inspector and Present.
+- File: JSON import/export, Save locally and New presentation.
+- **Title Qard** inserts an editable title and subtitle layout on the current Qard. Applying the template replaces that Qard's existing text objects; undo is available.
+- Existing deck data and editing features are preserved; unavailable features are not shown as active commands.
+
 ## Version 0.2.10 · Object control styling
 
 - Restyled the text-box delete control as a compact neutral icon.
