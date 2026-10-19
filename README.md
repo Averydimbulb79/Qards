@@ -4,6 +4,13 @@ A sleek, browser-based presentation studio where every slide is a **qard**.
 
 [Open the Qards web app](https://averydimbulb79.github.io/Qards/)
 
+## Version 0.4.1 · Qards brand refresh
+
+- Replaced the application header logo with a scalable flat SVG based on the approved rectangular Q/card concept.
+- Bright blue-to-cyan gradient, card-content details, Q tail and thin sans-serif-inspired lettering.
+- Shared brand asset for both light and dark editor themes: `assets/qards-brand.svg`.
+- Previous logo image assets remain in the repository for rollback.
+
 ## Version 0.4.0 · Local-first project foundation
 
 - Began the individual-use professional editor milestone; no accounts, collaboration or server required.
