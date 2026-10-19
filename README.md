@@ -4,6 +4,13 @@ A sleek, browser-based presentation studio where every slide is a **qard**.
 
 [Open the Qards web app](https://averydimbulb79.github.io/Qards/)
 
+## Version 0.2.9 · Inline delete and transition presets
+
+- Selected text boxes display an × button at their top-right corner for immediate deletion.
+- Added Dissolve, Wipe, Push and Split to the transition presets.
+- Apply transition to all Qards copies the current Qard's effect and duration across the deck.
+- Transition choices and durations persist in autosave and editable JSON.
+
 ## Version 0.2.8 · Text object manipulation
 
 - Delete the selected text box using the inspector button or Delete/Backspace outside text editing.
