@@ -4,6 +4,13 @@ A sleek, browser-based presentation studio where every slide is a **qard**.
 
 [Open the Qards web app](https://averydimbulb79.github.io/Qards/)
 
+## Version 0.2.8 · Text object manipulation
+
+- Delete the selected text box using the inspector button or Delete/Backspace outside text editing.
+- Rotate text boxes using the circular rotation handle or a precise angle field.
+- Rotation is preserved in autosave, JSON exports and slideshow rendering.
+- Selection styling now follows the focused text box.
+
 ## Version 0.2.7 · PowerPoint-style presenting
 
 - Presentation slides use the full viewport while preserving the 16:9 aspect ratio.
