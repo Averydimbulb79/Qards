@@ -4,6 +4,14 @@ A sleek, browser-based presentation studio where every slide is a **qard**.
 
 [Open the Qards web app](https://averydimbulb79.github.io/Qards/)
 
+## Version 0.2.7 · PowerPoint-style presenting
+
+- Presentation slides use the full viewport while preserving the 16:9 aspect ratio.
+- Click the slide or press Right Arrow to advance; Left Arrow returns to the previous Qard.
+- Space, Enter and Page Down also advance; Escape exits the slideshow.
+- Presenter controls fade away until hovered or focused.
+- Text scales proportionally with the presentation viewport.
+
 ## Version 0.2.6 · Presentation and fullscreen
 
 - Presenter now navigates all Qards with on-screen previous/next buttons.
