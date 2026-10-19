@@ -4,6 +4,16 @@ A sleek, browser-based presentation studio where every slide is a **qard**.
 
 [Open the Qards web app](https://averydimbulb79.github.io/Qards/)
 
+## Version 0.4.5 · Background designer
+
+- Qard Settings now has a **Background type** selector: Solid colour, Gradient colours, or Picture template.
+- Solid mode provides a colour picker.
+- Gradient mode provides two colour pickers and direction choices.
+- Picture mode provides Alpine Vista, Garden Studio, Metropolis and Coastal Light.
+- Background changes are applied to the selected Qard, participate in Undo/Redo and are preserved in local autosave and .qards exports.
+- Existing background presets continue to display; manually changing the background creates a custom background.
+- The pictured options are built-in vector illustrations, not photographic stock images.
+
 ## Version 0.4.4 · Studio/presentation typography consistency
 
 - Studio and slideshow now derive object font size and letter spacing from each slide's rendered width against the same 1280px reference.
