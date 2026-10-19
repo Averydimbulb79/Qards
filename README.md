@@ -4,6 +4,17 @@ A sleek, browser-based presentation studio where every slide is a **qard**.
 
 [Open the Qards web app](https://averydimbulb79.github.io/Qards/)
 
+## Version 0.3.1 · Template engine foundation
+
+- Templates now open a gallery rather than immediately replacing the current Qard.
+- Eight built-in designs: Editorial, Midnight, Terracotta, Botanical, Lavender, Sunset, Monochrome and Ocean.
+- Each preset includes a gradient background, coordinated foreground/accent palette and paired fonts.
+- **Add Qard** creates a new editable slide with the selected template, preserving existing slides.
+- **Style Current** applies a design to the active slide without replacing its text objects (existing objects are restyled).
+- Template background and ID are stored with the Qard, included in autosave and JSON export, and rendered in presentation mode.
+- Changing the background colour manually removes the template gradient.
+- This is the initial preset engine; user-defined templates, detailed layout variants and template editing remain future work.
+
 ## Version 0.3.0 · Ribbon redesign and first Qard template
 
 - Reorganised ribbon into File, Home, Insert, Design, Transitions and View, with compact consistent SVG icons and visible command labels.
