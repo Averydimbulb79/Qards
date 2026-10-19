@@ -4,6 +4,12 @@ A sleek, browser-based presentation studio where every slide is a **qard**.
 
 [Open the Qards web app](https://averydimbulb79.github.io/Qards/)
 
+## Version 0.4.6 · Browser tab icon
+
+- Replaced the browser-tab favicon reference with `assets/qards-favicon.svg`, matching the approved flat gradient Q/card logo.
+- Added a versioned favicon URL to help browsers refresh their cached icon.
+- Kept the previous PNG favicon as a fallback for older browsers.
+
 ## Version 0.4.5 · Background designer
 
 - Qard Settings now has a **Background type** selector: Solid colour, Gradient colours, or Picture template.
