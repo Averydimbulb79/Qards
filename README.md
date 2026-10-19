@@ -4,6 +4,13 @@ A sleek, browser-based presentation studio where every slide is a **qard**.
 
 [Open the Qards web app](https://averydimbulb79.github.io/Qards/)
 
+## Version 0.4.3 · File ribbon and illustrated templates
+
+- File is now a full ribbon tab rather than a dropdown menu. New, Save, Open and Export appear as visible ribbon commands.
+- Added four pictured templates: Alpine Vista, Garden Studio, Metropolis and Coastal Light, alongside the eight existing palette designs.
+- Pictured backgrounds are embedded SVG illustrations (not remote stock photography), so they remain available offline and are included in project exports.
+- Template gallery previews show the actual illustrated backgrounds; adding a Qard or styling the current one retains the selected background.
+
 ## Version 0.4.2 · Dark-mode logo contrast
 
 - Added `assets/qards-brand-dark.svg` with a light, high-contrast wordmark for dark backgrounds.
