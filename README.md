@@ -4,6 +4,17 @@ A sleek, browser-based presentation studio where every slide is a **qard**.
 
 [Open the Qards web app](https://averydimbulb79.github.io/Qards/)
 
+## Version 0.4.0 · Local-first project foundation
+
+- Began the individual-use professional editor milestone; no accounts, collaboration or server required.
+- Introduced IndexedDB persistence for the active project, with a localStorage fallback.
+- Project writes are debounced and the header indicates save status.
+- Added `.qards` project export (versioned JSON document), retaining editable objects, templates, transitions and slide settings.
+- Import now accepts `.qards` as well as earlier JSON project exports, with file validation.
+- Existing localStorage documents are preserved for compatibility.
+- This is the first part of v0.4: modularisation, rich media, layers, snapping and other advanced editing capabilities are still planned.
+- Note: `.qards` is currently a versioned JSON document, not yet a bundled ZIP/media package.
+
 ## Version 0.3.1 · Template engine foundation
 
 - Templates now open a gallery rather than immediately replacing the current Qard.
