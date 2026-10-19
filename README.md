@@ -4,6 +4,14 @@ A sleek, browser-based presentation studio where every slide is a **qard**.
 
 [Open the Qards web app](https://averydimbulb79.github.io/Qards/)
 
+## Version 0.4.4 · Studio/presentation typography consistency
+
+- Studio and slideshow now derive object font size and letter spacing from each slide's rendered width against the same 1280px reference.
+- Presentation scaling no longer relies on viewport dimensions, which could differ from the actual displayed slide.
+- Editor text is recalculated when the browser window resizes.
+- Removed the editor-only decorative top stripe, which was not part of presentation output.
+- The visual fix is committed; interactive browser QA is still needed, especially when resizing editor panels.
+
 ## Version 0.4.3 · File ribbon and illustrated templates
 
 - File is now a full ribbon tab rather than a dropdown menu. New, Save, Open and Export appear as visible ribbon commands.
