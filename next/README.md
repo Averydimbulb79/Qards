@@ -1,4 +1,4 @@
-# Qards Next · v0.5.0-alpha.1
+# Qards Next · v0.5.0-alpha.2
 
 An **isolated prototype** on `develop/smart-qards-engine`. The existing GitHub Pages app is unchanged.
 
@@ -30,3 +30,12 @@ This is **not yet** a production editor or a complete 96-type library. No produc
 - Add versioned shared document schema and content overflow policy.
 - Introduce Yoga for complex constraints, Dagre for diagrams, ECharts for charts and PptxGenJS for export only after adapter tests.
 - Preserve `main` as the current stable application until parity tests pass.
+
+## Alpha 2 changes
+
+- Added `src/document.ts`: versioned typed presentation, slide, object, background and content schema.
+- Added `src/layout.ts`: reusable grid/stack/row layout calculations, layout variants, content overflow warnings and conversion of Smart Qards to freeform text objects.
+- Adapted the initial Feature Cards prototype to the new schema.
+- Extended unit tests for document validation, conversion and alternate layouts.
+
+**Still unverified:** npm installation, TypeScript compilation, unit test execution and browser rendering. This branch is intentionally not deployed to GitHub Pages.
